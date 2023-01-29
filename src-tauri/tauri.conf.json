@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "SPOT",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://spot.a-gent.cn/udid/udid.html",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
